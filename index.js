@@ -45,7 +45,7 @@ function getOlderMessages() {
       if (result.length <= 0 || result.length === undefined) {
         console.log(`Got all messages from ${channelName.toUpperCase()}`);
         fs.writeFile(
-          `./output/${channelName}.txt`,
+          `./output/${channelName.split(" ").join("-")}.txt`,
           JSON.stringify(output, null, 2),
           function (err) {
             if (err) {
