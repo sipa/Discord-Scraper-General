@@ -1,7 +1,5 @@
 # What is this repo for?
 
-This repo is the first part of a two step process. Discord-Scraper-Process is the second part.
-
 This repository contains the code used to scrape all messages from the channels you select from a discord server.
 
 ## How to use
