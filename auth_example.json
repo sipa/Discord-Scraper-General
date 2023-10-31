@@ -1,0 +1,5 @@
+{
+  "token": "Your auth token",
+  "X-Super-Properties": "Your X-Super-Properties",
+  "referrer": "The url of one of the CHANNELS (not threads). Looks like https://discord.com/channels/123456789012345678/123456789012345678"
+}

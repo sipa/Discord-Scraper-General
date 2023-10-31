@@ -1,0 +1,5 @@
+node_modules
+output
+.vscode
+auth.json
+channels.js
